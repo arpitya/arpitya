@@ -5,6 +5,14 @@
   
   #### 📫 How to reach me:
   
+  ##LinkedeIn
+  
   https://www.linkedin.com/in/arpitya-singh-239457215/
+  
+  ##Mail me :
+  
+  arpityasingh@gmail.com
+  
+  
 
 
