@@ -5,11 +5,11 @@
   
   #### 📫 How to reach me:
   
-  ##LinkedeIn
+  - LinkedeIn
   
   https://www.linkedin.com/in/arpitya-singh-239457215/
   
-  ##Mail me :
+  - Mail me :
   
   arpityasingh@gmail.com
   
