@@ -12,10 +12,10 @@
   ####  📫 How to reach me:
  
   [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRradUpW3_y-gZQgRQTPT5mh9UKtGW5vjmrAQ&usqp=CAU" width="4.5%"/>](https://www.linkedin.com/in/arpitya-singh-239457215/)  &nbsp; [<img src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" width="4.5%"/>](https://twitter.com/ArpityaS) &nbsp; 
-<a href="https://instagram.com/https://www.instagram.com/xznon_678/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/xznon_678/" 
 
 ## Mail Me:
-<a><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="4.5%"/>arpityasing@gmail.com</a>
+<p><a href="mailto:arpityasingh@gmail.com"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" height="25"/>arpityasing@gmail.com</a></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitya&label=Profile%20views&color=0e75b6&style=flat" alt="arpitya" /> </p>
