@@ -14,7 +14,7 @@
   [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRradUpW3_y-gZQgRQTPT5mh9UKtGW5vjmrAQ&usqp=CAU" width="4.5%"/>](https://www.linkedin.com/in/arpitya-singh-239457215/)  &nbsp; [<img src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" width="4.5%"/>](https://twitter.com/ArpityaS) &nbsp; 
 
 ## Mail Me:
-<p><a href="mailto:arpityasingh@gmail.com"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png heigth="3.8" />arpityasing@gmail.com</a></p>
+<p><a href="mailto:arpityasingh@gmail.com"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png heigth="4" />arpityasing@gmail.com</a></p>
 
 
 
