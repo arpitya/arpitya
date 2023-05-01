@@ -12,7 +12,7 @@
   
 ## 📫 How to reach me:
  
-  [<img src="https://img.icons8.com/color/96/null/linkedin.png" width="6.5%"/>](https://www.linkedin.com/in/arpitya-singh-239457215/)  &nbsp; [<img src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" width="6.5%"/>](https://twitter.com/ArpityaS) &nbsp;  [<img src="https://img.icons8.com/fluency/144/null/gmail-new.png" width="6.5%"/>](https://mail.google.com/mail/?to=arpityasingh@gmail.com/#inbox?compose=new/)
+  [<img src="https://img.icons8.com/color/96/null/linkedin.png" width="6.5%"/>](https://www.linkedin.com/in/arpitya-singh-239457215/)  &nbsp; [<img src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" width="6.5%"/>](https://twitter.com/ArpityaS) &nbsp;  [<img src="https://img.icons8.com/fluency/144/null/gmail-new.png" width="6.5%"/>](https://mail.google.com/mail/?to=arpityasingh@gmail.com&cc=arpitya2706@gmail.com&subject=Hey#compose/)
 <!-- #### For Email:
 - <a href="https://mail.google.com/mail/?to=arpityasingh@gmail.com&cc=arpitya2706@gmail.com&subject=Hey#compose/" target="_blank">arpityasingh@gmail.com</a> -->
   
